@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📅 DocSpot – Book a Doctor App
 
 DocSpot is a full-stack healthcare appointment booking platform that simplifies the process of connecting patients with doctors. Built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js), the application provides real-time scheduling, role-based dashboards, and a smooth, user-friendly experience for patients, doctors, and administrators.
